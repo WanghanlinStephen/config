@@ -1,0 +1,215 @@
+{
+  "Name": "Hotkey",
+  "Guid": "D8529843-1CBF-4A8E-B7AC-9C6FEC7AFC8E",
+  "Description": "Default",
+  "Tags": [],
+  "Terminal Type": "xterm-256color",
+  "Character Encoding": 4,
+  "Custom Command": "No",
+  "Command": "",
+  "Working Directory": "/Users/wwna",
+  "Rows": 60,
+  "Columns": 80,
+  "Scrollback Lines": 1000,
+  "Unlimited Scrollback": false,
+  "Screen": -2,
+  
+  "Normal Font": "Menlo-Regular 11",
+  "Non Ascii Font": "Monaco 12",
+  "Use Bold Font": true,
+  "Use Bright Bold": true,
+  "Use Italic Font": true,
+  "Use Non-ASCII Font": false,
+  "ASCII Anti Aliased": true,
+  "Non-ASCII Anti Aliased": true,
+  "ASCII Ligatures": false,
+  "Vertical Spacing": 1,
+  "Horizontal Spacing": 1,
+  
+  "Window Type": 1,
+  "Transparency": 0.30260970744580848,
+  "Initial Use Transparency": true,
+  "Only The Default BG Color Uses Transparency": false,
+  "Blend": 0.2500226449275364,
+  "Blur": false,
+  "Blur Radius": 2,
+  "Background Image Mode": 3,
+  "Disable Window Resizing": true,
+  "Sync Title": false,
+  "Close Sessions On End": true,
+  "Prevent Opening in a Tab": true,
+  "Space": -1,
+  
+  "Has Hotkey": true,
+  "HotKey Key Code": 49,
+  "HotKey Modifier Activation": 3,
+  "HotKey Modifier Flags": 262144,
+  "HotKey Window Animates": true,
+  "HotKey Window AutoHides": false,
+  "HotKey Window Floats": true,
+  "HotKey Window Reopens On Activation": false,
+  "HotKey Window Dock Click Action": 0,
+  "HotKey Activated By Modifier": false,
+  "HotKey Alternate Shortcuts": [],
+  "HotKey Characters Ignoring Modifiers": "",
+  
+  "Visual Bell": true,
+  "Silence Bell": false,
+  "Flashing Bell": false,
+  "BM Growl": true,
+  "Mouse Reporting": true,
+  "Draw Powerline Glyphs": true,
+  "Option Key Sends": 0,
+  "Right Option Key Sends": 0,
+  "Jobs to Ignore": [
+    "rlogin",
+    "ssh",
+    "slogin",
+    "telnet"
+  ],
+  "Keyboard Map": {
+    "0x74-0x100000-0x0": {
+      "Action": 27,
+      "Label": "",
+      "Text": "D8529843-1CBF-4A8E-B7AC-9C6FEC7AFC8E",
+      "Version": 1
+    }
+  },
+  
+  "Ansi 0 Color": {
+    "Red Component": 0,
+    "Green Component": 0,
+    "Blue Component": 0
+  },
+  "Ansi 1 Color": {
+    "Red Component": 0.8,
+    "Green Component": 0,
+    "Blue Component": 0
+  },
+  "Ansi 2 Color": {
+    "Red Component": 0.3058824,
+    "Green Component": 0.6039215999999999,
+    "Blue Component": 0.02352941
+  },
+  "Ansi 3 Color": {
+    "Red Component": 0.7686275,
+    "Green Component": 0.627451,
+    "Blue Component": 0
+  },
+  "Ansi 4 Color": {
+    "Red Component": 0.2039216,
+    "Green Component": 0.3960784,
+    "Blue Component": 0.6431373
+  },
+  "Ansi 5 Color": {
+    "Red Component": 0.4588235,
+    "Green Component": 0.3137255,
+    "Blue Component": 0.4823529
+  },
+  "Ansi 6 Color": {
+    "Red Component": 0.02352941,
+    "Green Component": 0.5960785,
+    "Blue Component": 0.6039215999999999
+  },
+  "Ansi 7 Color": {
+    "Red Component": 0.827451,
+    "Green Component": 0.8431373,
+    "Blue Component": 0.8117647
+  },
+  "Ansi 8 Color": {
+    "Red Component": 0.3333333,
+    "Green Component": 0.3411765,
+    "Blue Component": 0.3254902
+  },
+  "Ansi 9 Color": {
+    "Red Component": 0.9372549,
+    "Green Component": 0.1607843,
+    "Blue Component": 0.1607843
+  },
+  "Ansi 10 Color": {
+    "Red Component": 0.5411764999999999,
+    "Green Component": 0.8862745,
+    "Blue Component": 0.2039216
+  },
+  "Ansi 11 Color": {
+    "Red Component": 0.9882353,
+    "Green Component": 0.9137255,
+    "Blue Component": 0.3098039
+  },
+  "Ansi 12 Color": {
+    "Red Component": 0.4470588,
+    "Green Component": 0.6235294,
+    "Blue Component": 0.8117647
+  },
+  "Ansi 13 Color": {
+    "Red Component": 0.6784314,
+    "Green Component": 0.4980392,
+    "Blue Component": 0.6588235
+  },
+  "Ansi 14 Color": {
+    "Red Component": 0.2039216,
+    "Green Component": 0.8862745,
+    "Blue Component": 0.8862745
+  },
+  "Ansi 15 Color": {
+    "Red Component": 0.9333333,
+    "Green Component": 0.9333333,
+    "Blue Component": 0.9254902
+  },
+  "Background Color": {
+    "Red Component": 0,
+    "Green Component": 0,
+    "Blue Component": 0
+  },
+  "Foreground Color": {
+    "Red Component": 1,
+    "Green Component": 1,
+    "Blue Component": 1
+  },
+  "Cursor Color": {
+    "Red Component": 1,
+    "Green Component": 1,
+    "Blue Component": 1
+  },
+  "Cursor Text Color": {
+    "Red Component": 0,
+    "Green Component": 0,
+    "Blue Component": 0
+  },
+  "Selection Color": {
+    "Red Component": 0.7098,
+    "Green Component": 0.8353,
+    "Blue Component": 1
+  },
+  "Selected Text Color": {
+    "Red Component": 0,
+    "Green Component": 0,
+    "Blue Component": 0
+  },
+  "Bold Color": {
+    "Red Component": 1,
+    "Green Component": 1,
+    "Blue Component": 1
+  },
+  "Link Color": {
+    "Color Space": "sRGB",
+    "Red Component": 0,
+    "Green Component": 0.35915294289588928,
+    "Blue Component": 0.73422706127166748,
+    "Alpha Component": 1
+  },
+  "Badge Color": {
+    "Color Space": "sRGB",
+    "Red Component": 1,
+    "Green Component": 0.14910030364990234,
+    "Blue Component": 0,
+    "Alpha Component": 0.5
+  },
+  "Cursor Guide Color": {
+    "Color Space": "sRGB",
+    "Red Component": 0.70214027166366577,
+    "Green Component": 0.92681378126144409,
+    "Blue Component": 1,
+    "Alpha Component": 0.25
+  }
+}
